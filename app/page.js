@@ -44,7 +44,7 @@ export default function Home() {
       <div className="gap-4 w-full flex justify-center items-center flex-col text-left">
         <h1 className="w-full font-bold">Changes to our Privacy Policy:</h1>
         <p className="text-left w-full">
-        Any changes we may make to our privacy policy in the future will be posted on this page. If we make material changes to how we treat our users' personal information, we will notify you through a notice on the extension and/or by email.
+        Any changes we may make to our privacy policy in the future will be posted on this page. If we make material changes to how we treat our users&apos; personal information, we will notify you through a notice on the extension and/or by email.
       </p>
       </div>
       <div className="gap-4 w-full flex justify-center items-center flex-col text-left">
